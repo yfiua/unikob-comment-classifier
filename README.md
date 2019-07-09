@@ -16,4 +16,4 @@ Each data file should have csv format with each line containing an index number 
 3. Save the model as pkl file for later use (optional).
 
 ## Main contributors
-[Jun Sun](https://github.com/yfiua), Nico Daheim(https://github.com/ndaheim).
+[Jun Sun](https://github.com/yfiua), [Nico Daheim](https://github.com/ndaheim).
