@@ -14,3 +14,6 @@ Each data file should have csv format with each line containing an index number 
 2. Run ``main.py`` to get the classification model and see the performance.
 
 3. Save the model as pkl file for later use (optional).
+
+## Main contributors
+[Jun Sun](https://github.com/yfiua), Nico Daheim(https://github.com/ndaheim).
